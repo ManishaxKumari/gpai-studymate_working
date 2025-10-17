@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'STUDYMATE - Your AI Study Companion',
+  description: 'PROTOTYPE: An AI-powered study companion that helps you learn effectively and efficiently.',
+  generator: 'MANISHA',
 }
 
 export default function RootLayout({
